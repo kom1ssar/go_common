@@ -1,4 +1,4 @@
-module github.com/kom1ssar
+module github.com/kom1ssar/go_common
 
 go 1.21
 

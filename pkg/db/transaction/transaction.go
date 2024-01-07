@@ -3,8 +3,8 @@ package transaction
 import (
 	"context"
 	"github.com/jackc/pgx/v4"
-	"github.com/kom1ssar/pkg/db"
-	"github.com/kom1ssar/pkg/db/pg"
+	"github.com/kom1ssar/go_common/pkg/db"
+	"github.com/kom1ssar/go_common/pkg/db/pg"
 	"github.com/pkg/errors"
 )
 
